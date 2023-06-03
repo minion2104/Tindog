@@ -1,0 +1,123 @@
+#title {
+  background-color: #eaad66;
+  color: #fff;
+}
+h1 {
+  font-family: Montserrat;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2 {
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3 {
+  font-family: Montserrat;
+}
+p {
+  color: #8f8f8f;
+}
+body {
+  font-family: Montserrat;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-Light;
+}
+.btn {
+  margin: 5% 3% 5% 0;
+}
+
+.im {
+  width: 60%;
+  transform: rotate(25deg);
+}
+#features {
+  padding: 7% 15%;
+}
+.box {
+  text-align: center;
+  padding: 5%;
+}
+.icon {
+  color: #eaad66;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: rgb(236, 106, 6);
+}
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #eaad66;
+  color: #fff;
+}
+
+.test-i {
+  width: 15%;
+  border-radius: 100%;
+  padding: 20px;
+}
+.test-m {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 20px;
+}
+#press {
+  background-color: #eaad66;
+  text-align: center;
+  padding: 3%;
+}
+.press-l {
+  margin: 20px 20px 50px;
+  width: 15%;
+}
+#pricing {
+  padding: 100px;
+}
+
+.mar {
+  margin-right: 7.2%;
+}
+.a {
+  padding: 59.3px;
+  text-align: center;
+}
+
+#cta {
+  background-color: #eaad66;
+  text-align: center;
+  padding: 3%;
+  color: #ffff;
+}
+.fo {
+  font-size: 250%;
+
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+}
+.co {
+  margin-top: 5%;
+}
+
+#footer {
+  text-align: center;
+  padding: 3%;
+}
